@@ -16,3 +16,8 @@ setInterval(spin, 16);
  	rotationSpeed = 0.01;
  	console.log('mouse enter');
  });
+
+
+ myOtherBox.addEventListener('mouseleave', (event) => {});
+ rotationSpeed = 0.001;
+ onmouseleave = (event) => { };
